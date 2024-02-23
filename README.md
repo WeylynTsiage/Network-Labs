@@ -29,4 +29,5 @@ Add an Ubuntu server and linked it to the DMZ-Switch, Installed and configured D
 
 # Stage 5
 
-![Stage5](https://github.com/WeylynTsiage/Network-Labs/assets/160628730/561e15d3-bf44-4681-9607-b54081dbb8d4)
+![Stage5 (1)](https://github.com/WeylynTsiage/Network-Labs/assets/160628730/b169f789-d16c-477c-81ea-2055746a3b43)
+
