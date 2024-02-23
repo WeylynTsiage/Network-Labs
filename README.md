@@ -28,6 +28,6 @@ Add an Ubuntu server and linked it to the DMZ-Switch, Installed and configured D
 ![Stage4](https://github.com/WeylynTsiage/Network-Labs/assets/160628730/9d8af595-6e34-4884-8da2-b332f0092fbf)
 
 # Stage 5
-
+Add an FTP server.
 ![Stage5 (1)](https://github.com/WeylynTsiage/Network-Labs/assets/160628730/b169f789-d16c-477c-81ea-2055746a3b43)
 
