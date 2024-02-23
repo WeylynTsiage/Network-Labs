@@ -25,7 +25,7 @@ Add another Win2012 server and joined it to the domain, installed internet infor
 # Stage 4
 Add an Ubuntu server and linked it to the DMZ-Switch, Installed and configured Doku-Wiki, set up a VIP webserver
 
-![Stage4](https://github.com/WeylynTsiage/Network-Labs/assets/160628730/9d8af595-6e34-4884-8da2-b332f0092fbf)
+![Stage4 (1)](https://github.com/WeylynTsiage/Network-Labs/assets/160628730/c8bcff97-6f60-4614-9248-654c84b58d3b)
 
 # Stage 5
 Add an FTP server.
